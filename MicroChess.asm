@@ -39,10 +39,10 @@
 ;
 ; 6551 I/O Port Addresses
 ;
-ACIAdat	= $4000
-ACIAsta	= $4001
-ACIAcmd	= $4002
-ACIActl	= $4003
+ACIAdat	= $5000
+ACIAsta	= $5001
+ACIAcmd	= $5002
+ACIActl	= $5003
 ;
 ; page zero variables
 ;
